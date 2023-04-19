@@ -26,8 +26,15 @@
         }
         public static void buy(Handlekurv handleKurv, Produkt product)
         {
-            handleKurv.Produktliste.Add(product);
-            Console.WriteLine($"Du har kjøpt 1 {product.Navn} til {product.Pris}kromer!");
+            if (handleKurv.Produktliste.IndexOf(product) == 0)
+            {
+                handleKurv.Produktliste.Add(product);
+                Console.WriteLine($"Du har kjøpt 1 {product.Navn} til {product.Pris}kromer!");
+            }
+            else
+            {
+                //PLS FILL IN
+            }
         }
     }
 }
