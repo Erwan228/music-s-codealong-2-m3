@@ -1,0 +1,15 @@
+C:\Users\erwan\Documents\GitHub\music-s-codealong-2-m3\Handlekurv\bin\Debug\net7.0\Handlekurv.exe
+C:\Users\erwan\Documents\GitHub\music-s-codealong-2-m3\Handlekurv\bin\Debug\net7.0\Handlekurv.deps.json
+C:\Users\erwan\Documents\GitHub\music-s-codealong-2-m3\Handlekurv\bin\Debug\net7.0\Handlekurv.runtimeconfig.json
+C:\Users\erwan\Documents\GitHub\music-s-codealong-2-m3\Handlekurv\bin\Debug\net7.0\Handlekurv.dll
+C:\Users\erwan\Documents\GitHub\music-s-codealong-2-m3\Handlekurv\bin\Debug\net7.0\Handlekurv.pdb
+C:\Users\erwan\Documents\GitHub\music-s-codealong-2-m3\Handlekurv\obj\Debug\net7.0\Handlekurv.csproj.AssemblyReference.cache
+C:\Users\erwan\Documents\GitHub\music-s-codealong-2-m3\Handlekurv\obj\Debug\net7.0\Handlekurv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erwan\Documents\GitHub\music-s-codealong-2-m3\Handlekurv\obj\Debug\net7.0\Handlekurv.AssemblyInfoInputs.cache
+C:\Users\erwan\Documents\GitHub\music-s-codealong-2-m3\Handlekurv\obj\Debug\net7.0\Handlekurv.AssemblyInfo.cs
+C:\Users\erwan\Documents\GitHub\music-s-codealong-2-m3\Handlekurv\obj\Debug\net7.0\Handlekurv.csproj.CoreCompileInputs.cache
+C:\Users\erwan\Documents\GitHub\music-s-codealong-2-m3\Handlekurv\obj\Debug\net7.0\Handlekurv.dll
+C:\Users\erwan\Documents\GitHub\music-s-codealong-2-m3\Handlekurv\obj\Debug\net7.0\refint\Handlekurv.dll
+C:\Users\erwan\Documents\GitHub\music-s-codealong-2-m3\Handlekurv\obj\Debug\net7.0\Handlekurv.pdb
+C:\Users\erwan\Documents\GitHub\music-s-codealong-2-m3\Handlekurv\obj\Debug\net7.0\Handlekurv.genruntimeconfig.cache
+C:\Users\erwan\Documents\GitHub\music-s-codealong-2-m3\Handlekurv\obj\Debug\net7.0\ref\Handlekurv.dll
