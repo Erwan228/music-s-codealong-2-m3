@@ -8,6 +8,7 @@
             var duftlys = new Produkt("Duftlys", 400);
             var cosplay = new Produkt("Cosplay", 30000);
             var sverd = new Produkt("Sverd", 100);
+
         }
     }
 }
