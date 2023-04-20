@@ -2,12 +2,24 @@
 {
     internal class Orderline
     {
-        public Produkt _Produkt { get; }
+        public Produkt Product { get; }
         public int Antall { get; private set; }
         public Orderline(Produkt produkt, int antall = 1)
         {
-            _Produkt = produkt;
+            Product = produkt;
             Antall = antall;
         }
+        public void AddItem(int itemsToAdd = 1)
+        {
+            Antall += itemsToAdd;
+        }
+        public int GetTotal()
+        {
+            return Product.Pris * Antall;
+        }
+
+
     }
 }
+
+
